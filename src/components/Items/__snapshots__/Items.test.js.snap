@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Items renders according to snapshot 1`] = `
+<table
+  className="text-left"
+>
+  <thead>
+    <tr>
+      <th>
+        <button
+          onClick={[Function]}
+        >
+          Date
+        </button>
+      </th>
+      <th>
+        User ID
+      </th>
+      <th>
+        Old value
+      </th>
+      <th>
+        New value
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr
+      key="0"
+    >
+      <td>
+        2020-02-15
+      </td>
+      <td>
+        8bd0166f-f0c6-48fd-9fcd-a17e76eb1e92
+      </td>
+      <td>
+        Bruce
+      </td>
+      <td>
+        Nick
+      </td>
+    </tr>
+    <tr
+      key="1"
+    >
+      <td>
+        2020-02-14
+      </td>
+      <td>
+        e28d290a-a2f2-48c2-9001-ff43884e271b
+      </td>
+      <td>
+        John
+      </td>
+      <td>
+        Bruce
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

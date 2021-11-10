@@ -1,0 +1,16 @@
+.container {
+    margin-bottom: 50px;
+    
+}
+
+.error-msg {
+    text-align: center;
+    margin-bottom: 20px;
+    color: red;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
